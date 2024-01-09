@@ -1,30 +1,67 @@
-# 프로젝트 명
+# :books:프로젝트 명
 ***
-## 프로젝트 소개
+## :open_book:프로젝트 소개
 >프로젝트 설명
 ***
-### 배포 링크
+### :link:배포 링크
 ***
-### 팀원 소개
+### :eyes:팀원 소개
 | **position** | **position** | **position** | **position** | **position** |
 |:------------:|:------------:|:------------:|:------------:|:------------:|
-|      img     |      img     |      img     |      img     |      img     |
+|      ![DY](img/DY.jpg)     |      ![SY](img/SY.png)     |      ![BC](img/BC.jpg)     |      ![JA](img/JA.jpg)     |      ![SM](img/SM.jpg)     |
 |   김도영<br>link  |   김성열<br>link  |   박병찬<br>link  |   이정아<br>[horaeng333](https://github.com/) |   한수민<br>link  |
-|    details   |    details   |    details   |    details   |    details   |
+|    - details<br> - details<br> - details<br>    |    - details<br> - details<br> - details<br>    |    - details<br> - details<br> - details<br>    |    - details<br> - details<br> - details<br>    |    - details<br> - details<br> - details<br>    |
 ***
-### 기술 스택
-FRONT-END
+### :muscle:기술 스택
+FRONT-END<br>
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 
-BACK-END
+BACK-END<br>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  
+DEPLOYMENT<br>
 
-DEPLOYMENT
+TOOLS<br>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-TOOLS
 ***
-### 아키텍처
+### 🏡아키텍처
 ***
-### 프로젝트 문서
+### 📄프로젝트 문서
 ***
-## 페이지 및 세부 기능
+## :open_book:페이지
+<details>
+<summary>페이지1</summary>
+<div>
+
+내용
+
+</div>
+</details>
+<br>
+<details>
+<summary>페이지2</summary>
+<div>
+
+내용
+
+</div>
+</details>
+<br>
+<details>
+<summary>페이지3</summary>
+<div>
+
+내용
+
+</div>
+</details>
+<br>
+
 ***
-## Conventions 
+## :open_book:세부 기능
+***
+## 📌Conventions 

@@ -9,7 +9,7 @@
 | **position** | **position** | **position** | **position** | **position** |
 |:------------:|:------------:|:------------:|:------------:|:------------:|
 |      ![DY](img/DY.jpg)     |      ![SY](img/SY.png)     |      ![BC](img/BC.jpg)     |      ![JA](img/JA.jpg)     |      ![SM](img/SM.jpg)     |
-|   김도영<br>link  |   김성열<br>link  |   박병찬<br>link  |   이정아<br>[horaeng333](https://github.com/) |   한수민<br>link  |
+|   김도영<br>link  |   김성열<br>link  |   박병찬<br>link  |   이정아<br>[horaeng333](https://github.com/) |   한수민<br>[soominee2](https://github.com/)  |
 |    - details<br> - details<br> - details<br>    |    - details<br> - details<br> - details<br>    |    - details<br> - details<br> - details<br>    |    - details<br> - details<br> - details<br>    |    - details<br> - details<br> - details<br>    |
 ***
 ### :muscle:기술 스택
